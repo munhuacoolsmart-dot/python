@@ -3,4 +3,5 @@ which provide the link https://github.com/GeekTrainer/Introduction-Programming-P
 
 I have modified them to make them more workable and even include some challenging code thanks to chatGPT.
 
-I like the role-playing and racing games generated with ChatGPT.
+I like the tetris, role-playing (rpg) and racing games generated with ChatGPT and Google Gemini.
+Just go to the respective folders accordingly. use replit to run these games.
