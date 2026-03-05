@@ -3,4 +3,4 @@ which provide the link https://github.com/GeekTrainer/Introduction-Programming-P
 
 I have modified them to make them more workable and even include some challenging code thanks to chatGPT.
 
-I like the role-playing game generated with ChatGPT under if-match-games.py.
+I like the role-playing and racing games generated with ChatGPT.
